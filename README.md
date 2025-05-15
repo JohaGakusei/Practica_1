@@ -11,6 +11,7 @@ Este proyecto muestra mi currículum vitae en formato web, diseñado con HTML y 
 ## 🌐 Ver CV en línea
 
 Puedes visualizar el CV completo desde GitHub Pages en el siguiente enlace:    
+https://roadmap.sh/projects/single-page-cv
 🔗 [[https://johagakusei.github.io/Practica_1/](https://johagakusei.github.io/Practica_1/)](https://github.com/JohaGakusei/Practica_1/tree/main)
 
 ## 📝 Cómo ejecutar el proyecto localmente
